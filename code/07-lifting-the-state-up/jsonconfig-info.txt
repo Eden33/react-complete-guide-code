@@ -1,0 +1,5 @@
+https://code.visualstudio.com/docs/languages/jsconfig -> Quote:
+"The JavaScript experience is improved when you have a jsconfig.json file in your workspace ..." 
+
+Indeed true. This enables auto import for default JSX compoments when you type JSX code.
+
